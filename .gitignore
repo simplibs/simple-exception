@@ -6,7 +6,7 @@ venv/
 __DOC__/
 
 # Python cache
-__pycache__/
+**/__pycache__/
 *.pyc
 *.pyo
 *.pyd
@@ -25,3 +25,10 @@ build/
 # Coverage
 .coverage
 htmlcov/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Local environment files
+.env

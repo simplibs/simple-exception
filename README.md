@@ -1,3 +1,13 @@
+# ⚠️ DEPRECATED — Use simplibs instead
+
+This package is deprecated and no longer maintained. 
+
+**Please migrate to:** [`simplibs-exception`](https://pypi.org/project/simplibs-exception/)
+
+This older version remains available for backward compatibility, but new projects should use the simplibs ecosystem instead.
+
+---
+
 # simple-exception
 
 > An exception that tries to be a friend. A structured exception with diagnostic
